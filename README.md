@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning and Game AI
 
 This repository gives examples to reinforcement learning methods such as policy gradient and Q-learning.
 
